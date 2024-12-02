@@ -66,7 +66,8 @@
   <summary><h3> 5. 대표 기능 설명</h3></summary>
 
 #### 1. 메인페이지
-![image](https://github.com/user-attachments/assets/569f81a8-d77a-4205-b4b1-2144b4c492f2)
+![image](https://github.com/user-attachments/assets/a4bd072f-fe56-495a-9ded-d2bedece9361)
+
 
 #### 2. 지점찾기, 환율계산
 ![2024-11-27-04-48-38](https://github.com/user-attachments/assets/3e6b065f-11d9-454e-ad6c-6d6d601199ec)
