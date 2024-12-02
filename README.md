@@ -14,10 +14,10 @@
 <table style="margin: 0 auto; text-align: center;">
   <tr>
     <td style="text-align: center; vertical-align: middle;">
-      <img src="/uploads/9c069adf5c13812c48edb31a7a105651/35_45__1_.jpg" alt="윤재은" style="width: 150px; height: 150px;">
+      <img src="https://github.com/user-attachments/assets/cb41a2c3-1dca-4d44-ad24-82abb8b6787d" alt="윤재은" style="width: 150px; height: 150px;">
     </td>
     <td style="text-align: center; vertical-align: middle;">
-      <img src="/uploads/d1836d4eb4fa9f650223e8ed63030262/권남희__1_.jpg" alt="권남희" style="width: 150px; height: 150px;">
+      <img src="https://github.com/user-attachments/assets/83c1e514-6b63-4583-b0a1-d318722650aa" alt="권남희" style="width: 150px; height: 150px;">
     </td>
   </tr>
   <tr >
@@ -43,9 +43,12 @@
 예적금, 카드 정보 및 추천 금융 커뮤니티
 
 ### 3. 주제 선정 이유
-  <div style="display: flex; justify-content: space-between;">
-  ![image](/uploads/9fa0cc6e90ef76f4d7ad787e3f4f2adf/image.png)
-  ![image](/uploads/d9605431e414fd10a7b37f7e8e079b0f/image.png)
+<div style="display: flex; justify-content: space-between;">
+  
+![image](https://github.com/user-attachments/assets/37bea268-c2a1-4f58-adbb-4d5618fc5c32)
+![image](https://github.com/user-attachments/assets/90927692-c929-40e4-95f5-dcb5b857ae63)
+
+
 </div>
 
 * 펜데믹 이후, 온라인에서 이용 가능한 디지털 은행 플랫폼에 대한 관심이 크게 증가 <br>
@@ -63,10 +66,10 @@
   <summary><h3> 5. 대표 기능 설명</h3></summary>
 
 #### 1. 메인페이지
-![2024-11-27-04-48-07](/uploads/e441892a721e26d310518c22f12412c4/2024-11-27-04-48-07.gif)
+[https://lab.ssafy.com/wodms6199/final-pjt-back/uploads/e441892a721e26d310518c22f12412c4/2024-11-27-04-48-07.gif](https://lab.ssafy.com/wodms6199/final-pjt-back/uploads/e441892a721e26d310518c22f12412c4/2024-11-27-04-48-07.gif)
 
 #### 2. 지점찾기, 환율계산
-![2024-11-27-04-48-38](/uploads/fb315e4a6072c7c796706abd6d0e5700/2024-11-27-04-48-38.gif)
+[![2024-11-27-04-48-38](/uploads/fb315e4a6072c7c796706abd6d0e5700/2024-11-27-04-48-38.gif)](https://lab.ssafy.com/wodms6199/final-pjt-back/uploads/fb315e4a6072c7c796706abd6d0e5700/2024-11-27-04-48-38.gif)
 
 #### 3. 예/적금 비교, 프로필
 ![2024-11-27-04-46-56](/uploads/3cd76439508b0147f274cc6dc2493d37/2024-11-27-04-46-56.gif)
