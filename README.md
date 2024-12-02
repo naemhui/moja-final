@@ -66,7 +66,8 @@
   <summary><h3> 5. 대표 기능 설명</h3></summary>
 
 #### 1. 메인페이지
-[https://lab.ssafy.com/wodms6199/final-pjt-back/uploads/e441892a721e26d310518c22f12412c4/2024-11-27-04-48-07.gif](https://lab.ssafy.com/wodms6199/final-pjt-back/uploads/e441892a721e26d310518c22f12412c4/2024-11-27-04-48-07.gif)
+![](https://lab.ssafy.com/wodms6199/final-pjt-back/uploads/e441892a721e26d310518c22f12412c4/2024-11-27-04-48-07.gif)
+
 
 #### 2. 지점찾기, 환율계산
 [![2024-11-27-04-48-38](/uploads/fb315e4a6072c7c796706abd6d0e5700/2024-11-27-04-48-38.gif)](https://lab.ssafy.com/wodms6199/final-pjt-back/uploads/fb315e4a6072c7c796706abd6d0e5700/2024-11-27-04-48-38.gif)
