@@ -66,23 +66,26 @@
   <summary><h3> 5. 대표 기능 설명</h3></summary>
 
 #### 1. 메인페이지
-![](https://lab.ssafy.com/wodms6199/final-pjt-back/uploads/e441892a721e26d310518c22f12412c4/2024-11-27-04-48-07.gif)
-
+![image](https://github.com/user-attachments/assets/569f81a8-d77a-4205-b4b1-2144b4c492f2)
 
 #### 2. 지점찾기, 환율계산
-[![2024-11-27-04-48-38](/uploads/fb315e4a6072c7c796706abd6d0e5700/2024-11-27-04-48-38.gif)](https://lab.ssafy.com/wodms6199/final-pjt-back/uploads/fb315e4a6072c7c796706abd6d0e5700/2024-11-27-04-48-38.gif)
+![2024-11-27-04-48-38](https://github.com/user-attachments/assets/3e6b065f-11d9-454e-ad6c-6d6d601199ec)
 
 #### 3. 예/적금 비교, 프로필
-![2024-11-27-04-46-56](/uploads/3cd76439508b0147f274cc6dc2493d37/2024-11-27-04-46-56.gif)
+![예적금 비교](https://github.com/user-attachments/assets/ab96b511-583e-416d-bb28-046a4d781709)
+
 
 #### 4. 카드 추천
-![2024-11-27-04-42-36](/uploads/7f314fb0820d22643da532b33fac3768/2024-11-27-04-42-36.gif)
+![카드 추천](https://github.com/user-attachments/assets/77f5d0a4-b435-4bbd-8bd4-cb381e2f0efe)
+
 
 #### 5. 예/적금 추천
-![2024-11-27-04-50-06](/uploads/0c7a52ca93b3f0318308d4494ec5f52a/2024-11-27-04-50-06.gif)
+![예:적금 추천](https://github.com/user-attachments/assets/61004a19-f420-412b-8719-f0a33b1d7e8e)
+
 
 #### 6. 커뮤니티
-![2024-11-27-04-49-15](/uploads/84981f30d0e635c0caa3b6fe8d9d3d89/2024-11-27-04-49-15.gif)
+![커뮤니티](https://github.com/user-attachments/assets/ad9e4190-28b2-4c3c-a36c-49ceffe20900)
+
 
 </details>
 
@@ -124,12 +127,15 @@
 <details>
   <summary><h4>1. 요구사항 명세서</h4></summary>
   <a href= "https://docs.google.com/spreadsheets/d/14Vcwo9Ih70mHw0VXnvRSigJzKRxiEjQevIFyo2gDWo0/edit?usp=sharing">요구사항 명세서</a>
- ![image](/uploads/abf82c1c2215ab5fedb75fa453a054a4/image.png)
+  
+![image](https://github.com/user-attachments/assets/b24ed015-cb71-4846-9ee8-66bc75667f40)
+
 </details>
 
 <details>
   <summary><h4>2. ERD</h4></summary>
-  ![MOJA__2_](/uploads/fe0629995a3abd525198a0c97ddba1da/MOJA__2_.png)
+
+  ![image](https://github.com/user-attachments/assets/2aa536c8-812f-429c-a721-276599067752)
 
 </details>
 
@@ -138,22 +144,32 @@
 
   <details>
   <summary><h4>3-1. accounts</h4></summary>
-![image](/uploads/a642f70f9c38985844ab7f6cc407fa05/image.png)
+
+  ![image](https://github.com/user-attachments/assets/ca576de1-871e-4199-b184-d2254c399777)
+    
   </details>
 
   <details>
   <summary><h4>3-2. articles, boards</h4></summary>
-![image](/uploads/ce8d80866bf8fb6835bc7c5befbe8eda/image.png)
+
+  ![image](https://github.com/user-attachments/assets/1c65fd1c-eed3-40a4-a5fd-0deb03c20b65)
+
+
   </details>
 
   <details>
   <summary><h4>3-3. cards</h4></summary>
-![image](/uploads/823b6ffcd6dde5e03fdd0df885ec7942/image.png)
+
+  ![image](https://github.com/user-attachments/assets/d632b491-015f-48d6-81c2-e5ce4f658449)
+    
   </details>
 
   <details>
   <summary><h4>3-4. finances</h4></summary>
-![image](/uploads/420f348501ffd9ff664f147b103d4d77/image.png)
+    
+  ![image](https://github.com/user-attachments/assets/251fa337-1308-4ff5-8415-33a893887948)
+
+
   </details>
 
 </details>
@@ -164,35 +180,38 @@
 
 <details>
 <summary><h4>4-1. 메인</h4> </summary>
-  ![image](/uploads/aa0c051f6207d600cdb8fd32aaa01e8b/image.png)
+  
+  ![image](https://github.com/user-attachments/assets/011235d2-1637-45c8-bec5-0d0735a322ff)
+
 </details>
 
 <details>
 <summary><h4>4-2. 회원</h4> </summary>
-  
-![image](/uploads/d70f8b19a6bb67a5b790f66a939ae28f/image.png)
-![image](/uploads/fd02d9facbe4ebcb85b76ff55b2cc2db/image.png)
-![image](/uploads/c6a8e8b7d510c74ed3a3d49b35fc73cd/image.png)
+
+![image](https://github.com/user-attachments/assets/b4476c00-3942-4caa-ac0c-fa9c5ca949f2)
+![image](https://github.com/user-attachments/assets/73516eb2-8ba4-4c48-9bc1-28bbd2cd5c9a)
+![image](https://github.com/user-attachments/assets/c0057528-1dee-4ade-81aa-4dfde8601960)
+
 
 </details>
 
 <details>
 <summary><h4>4-3. 예/적금</h4> </summary>
   
-![image](/uploads/5eb515d6eaa692a9b2f941b1715d8a01/image.png)
-![image](/uploads/54a360df20239001b304d12ada1df9ef/image.png)
-![image](/uploads/c80ddf254f5bd281cd4d301a075683fb/image.png)
-![image](/uploads/0e9b99198e4f7a0eb22f5b59e3e1aa23/image.png)
+![image](https://github.com/user-attachments/assets/91bbd483-d566-439a-b718-08c29e2508ea)
+![image](https://github.com/user-attachments/assets/232ea18c-d03a-4c5d-a035-d759c7aec196)
+![image](https://github.com/user-attachments/assets/9f4d29a0-2917-4eb5-b665-c6fa64d4c250)
+![image](https://github.com/user-attachments/assets/fff0450c-3e2b-494c-98d9-41b856b38d14)
 
 </details>
 
 <details>
 <summary><h4>4-4. 카드</h4> </summary>
 
-![image](/uploads/da3beb39b07603d11e6ff5387f25fbbe/image.png)
-![image](/uploads/1d61849511df0d41df73fc2b13bebb39/image.png)
-![image](/uploads/4cf550c4877c3e197ae42b7b58e87135/image.png)
-![image](/uploads/a6e5839bfd2ff67a5969567d45763e73/image.png)
+  ![image](https://github.com/user-attachments/assets/fde7500d-1e4f-45cd-81f5-741080e7f314)
+  ![image](https://github.com/user-attachments/assets/b241fc4f-7e34-445d-b13f-580fe714c6af)
+  ![image](https://github.com/user-attachments/assets/ce219d98-33d5-4938-a201-d1a19296f149)
+  ![image](https://github.com/user-attachments/assets/f7e1d7af-acdb-4628-a080-28559eddddd5)
 
 
 </details>
@@ -200,9 +219,9 @@
 <details>
 <summary><h4>4-5. 커뮤니티</h4> </summary>
   
-![image](/uploads/9ef47df233237efe961ba69e34c42084/image.png)
-![image](/uploads/bd5cb1f6004617d5282fbab836864540/image.png)
-![image](/uploads/429e095cff05a7c4a32c75a0bb514ce8/image.png)
+![image](https://github.com/user-attachments/assets/a579a8b3-f1e9-420d-aa1b-8eb57f83eb58)
+![image](https://github.com/user-attachments/assets/0ed57602-a4b0-4b43-822a-d9d78d677916)
+![image](https://github.com/user-attachments/assets/8ddeaffb-40fb-4236-b3b9-ad121c876a7e)
 
 </details>
 
@@ -218,8 +237,8 @@
 
 <details>
   <summary><h3>📈 시스템 아키텍처</h3></summary>
-![MOJA_시스템_아키텍처](/uploads/0899c51c83918fbb88312d0479a6dca6/MOJA_시스템_아키텍처.png)
 
+ ![image](https://github.com/user-attachments/assets/8caefd9d-67b4-4330-a02e-b097ed230e2d)
 
 </details>
 
