@@ -67,6 +67,8 @@
 
 #### 1. 메인페이지
 ![image](https://github.com/user-attachments/assets/a4bd072f-fe56-495a-9ded-d2bedece9361)
+![](https://lab.ssafy.com/wodms6199/final-pjt-back/uploads/e441892a721e26d310518c22f12412c4/2024-11-27-04-48-07.gif)
+
 
 
 #### 2. 지점찾기, 환율계산
