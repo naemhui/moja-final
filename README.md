@@ -66,8 +66,7 @@
   <summary><h3> 5. 대표 기능 설명</h3></summary>
 
 #### 1. 메인페이지
-![image](https://github.com/user-attachments/assets/a4bd072f-fe56-495a-9ded-d2bedece9361)
-![](https://lab.ssafy.com/wodms6199/final-pjt-back/uploads/e441892a721e26d310518c22f12412c4/2024-11-27-04-48-07.gif)
+![image](https://github.com/user-attachments/assets/6023bf13-b7ec-4183-8c1f-d1ed30c455d5)
 
 
 
