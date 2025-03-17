@@ -1,0 +1,192 @@
+.bank-item {
+  cursor: pointer;
+  display: flex;
+  flex-direction: column; /* 텍스트와 이미지를 세로로 정렬 */
+  align-items: center;
+  justify-content: center;
+  padding: 10px; /* 적절한 내부 여백 */
+  width: 87px; /* 일정한 너비 */
+  height: 100px; /* 일정한 높이 */
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 0.85rem; /* 텍스트 크기 */
+  text-align: center;
+  white-space: nowrap; /* 텍스트 줄바꿈 방지 */
+  overflow: hidden; /* 콘텐츠 넘칠 경우 숨김 */
+  text-overflow: ellipsis; /* 텍스트 넘칠 경우 말줄임표 */
+  transition: all 0.3s ease;
+}
+
+.bank-item:hover {
+  background-color: #40A2E3 !important;
+  color: #fff !important;
+  border-color: #40A2E3 !important;
+}
+
+.bank-item.active {
+  background-color: #40A2E3;
+  color: white;
+  border-color: #40A2E3;
+}
+
+.bank-logo {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-bottom: 8px; /* 로고와 텍스트 간격 */
+}
+
+.card {
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+.rate-info p {
+  font-size: 0.9rem;
+}
+
+.filter-container {
+  margin-left: -10px; /* 음수 값을 사용해 왼쪽으로 이동 */
+}
+
+.bank-filter,
+.rate-slider,
+.search-section,
+.category-filter {
+  margin-left: -10px; /* 필터 섹션을 왼쪽으로 이동 */
+}
+
+.search-section {
+  margin-top: 30px;
+}
+
+.category-filter {
+  margin-bottom: 20px;
+}
+
+.rate-slider {
+  padding: 15px;
+  background-color: #fff;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  margin-bottom: 20px; /* 다른 컴포넌트와의 간격 유지 */
+}
+
+.rate-slider h5 {
+  font-size: 1rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.rate-slider label {
+  font-size: 0.9rem;
+  color: #333;
+  margin-bottom: 10px;
+  display: block;
+}
+
+.form-range {
+  width: 100%;
+  height: 8px;
+  -webkit-appearance: none;
+  appearance: none;
+  background-color: #ddd;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.form-range::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #40A2E3;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.form-range::-webkit-slider-thumb:hover {
+  background-color: #40A2E3;
+}
+
+.form-range::-webkit-slider-runnable-track {
+  height: 8px;
+  border-radius: 5px;
+}
+
+.form-range::-moz-range-thumb {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #40A2E3;
+  cursor: pointer;
+}
+
+.form-range::-moz-range-thumb:hover {
+  background-color: #40A2E3;
+}
+
+.form-range::-moz-range-track {
+  height: 8px;
+  border-radius: 5px;
+  background-color: #40A2E3;
+}
+
+/* 버튼 그룹 정렬 및 스타일 */
+.category-filter .btn-group {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.category-filter .btn-group .btn {
+  flex: 1;
+  margin: 0 5px;
+  font-size: 0.9rem;
+  padding: 8px 10px;
+  border-radius: 5px;
+  transition: all 0.3s ease;
+}
+
+.category-filter .btn-group .btn.active {
+  background-color: #40A2E3;
+  color: white;
+}
+
+/* 반응형 스타일 */
+@media (max-width: 768px) {
+  .bank-filter,
+  .rate-slider,
+  .search-section,
+  .category-filter {
+    margin-left: 0; /* 작은 화면에서는 기본 위치로 복구 */
+  }
+
+  .bank-item {
+    width: 70px;
+  }
+
+  .bank-logo {
+    width: 40px;
+    height: 40px;
+  }
+
+  .card-title {
+    font-size: 1rem;
+  }
+
+  .rate-info p {
+    font-size: 0.8rem;
+  }
+
+  .category-filter .btn-group .btn {
+    font-size: 0.8rem;
+    padding: 6px 8px;
+  }
+}
